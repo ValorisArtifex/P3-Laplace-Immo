@@ -23,7 +23,7 @@ Notre objectif est clair : créer un modèle de prévision des prix immobiliers 
 
 4. **Analyse des Données :**
    - Extraction des données pertinentes à partir de requêtes SQL pour répondre aux besoins définis, tels que le nombre total d'appartements vendus, la proportion des ventes par le nombre de pièces, etc.
-   - 
+     
 #### Conclusion :
 
 Et voilà ! La base de données est prête à être explorée comme un trésor immobilier caché ! 💰🔍 Ce projet a été une plongée passionnante dans le monde des données, où j'ai jonglé entre Excel, Datagrip et même quelques schémas UML pour cartographier cette aventure. Prêt à découvrir ce que j'ai déniché ? 🏠
