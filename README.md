@@ -1,4 +1,4 @@
-### Projet 3 OpenClassrooms : DATAImmo - Prévision des Prix Immobiliers 🏡💰
+### Projet  : DATAImmo - Prévision des Prix Immobiliers 🏡💰
 
 #### Introduction :
 
